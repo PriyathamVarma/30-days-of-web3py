@@ -23,4 +23,4 @@ Install and setup the below dependencies
 
 | File | Components |
 | - | - |
-| accounts.py | Connecting to wallet addresses, getting balances |
+| [accounts.py](https://github.com/PriyathamVarma/Eth-Python/blob/main/DApp/accounts.py) | Connecting to wallet addresses, getting balances |
