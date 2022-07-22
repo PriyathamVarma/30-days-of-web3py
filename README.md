@@ -1,6 +1,6 @@
 # Eth-Python
 Python based Ethereum development
-![ETH-PYTH]()
+![ETH-PYTH](https://github.com/PriyathamVarma/Eth-Python/blob/main/Ethereum%20-%20Python.jpg)
 
 ## Important Resources
 
