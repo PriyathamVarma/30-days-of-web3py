@@ -12,12 +12,12 @@ Install and setup the below dependencies
 
 ## Steps
 
-1. Create a python file --> Example: accounts.py
-2. Create an virtual environment using pip install 
-3. Follow the stpes in the artcile to setup virtual env --> [click here](https://docs.python.org/3/library/venv.html)
-4. > ACTIVATE THE VIRTUAL ENVIRONMENT BEFORE INSTALLING DEPENDENCIES
-5. Install the dependencies
-6. Go to the python files for more information
+1. > Create a python file --> Example: accounts.py
+2. > Create an virtual environment using pip install 
+3. > Follow the stpes in the artcile to setup virtual env --> [click here](https://docs.python.org/3/library/venv.html)
+4. > ** ACTIVATE THE VIRTUAL ENVIRONMENT BEFORE INSTALLING DEPENDENCIES **
+5. > Install the dependencies
+6. > Go to the python files for more information
 
 ## Table of Contents
 
