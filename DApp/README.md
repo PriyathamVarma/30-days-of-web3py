@@ -25,3 +25,4 @@ Install and setup the below dependencies
 | - | - |
 | [accounts.py](https://github.com/PriyathamVarma/Eth-Python/blob/main/DApp/accounts.py) | Connecting to wallet addresses, getting balances |
 | [txns.py](https://github.com/PriyathamVarma/Eth-Python/blob/main/DApp/txns.py) | Getting txn info |
+| [sendTxns.py](https://github.com/PriyathamVarma/Eth-Python/blob/main/DApp/sendTxns.py) | Sending txns |
