@@ -9,7 +9,7 @@ Python based Ethereum development
 | [01]() | EVM Basics |  |
 | [02]() | EVM Advanced |  |
 | [03]() | Connecting metamask |  |
-| [04]() | Querying blockchain |  |
+| [04]() | Querying Blockchain |  |
 | [05]() | Sending Txns |  |
 | [06]() | Sending Data |  |
 | [07]() |  |  |
